@@ -1,0 +1,28 @@
+{
+  "name": "awps/prepic",
+  "description": "A WordPress plugin designed to make it easy to resize, crop, pre-process and cleanup images from media library.",
+  "keywords": [
+    "image",
+    "wordpress",
+    "resize",
+    "process",
+    "optimization",
+    "picture"
+  ],
+  "homepage": "https://github.com/awps/prepic",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Andrei Surdu",
+      "role": "Developer",
+      "homepage": "http://zerowp.com"
+    }
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "support": {
+    "docs": "https://github.com/awps/prepic/",
+    "issues": "https://github.com/awps/prepic/issues"
+  }
+}
