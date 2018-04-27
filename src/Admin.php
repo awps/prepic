@@ -42,6 +42,9 @@ class Admin
         $this->zgOpen(false, 'Vertical crop positions');
 
         $image = prepic($image_url);
+
+        var_dump($image);
+
         $this->cell(
             $image
                 ->width(345)
